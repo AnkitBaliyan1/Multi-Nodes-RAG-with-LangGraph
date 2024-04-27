@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain_openai
+unstructured[pdf]
+pinecone-client
+langchain_experimental
+pandas
